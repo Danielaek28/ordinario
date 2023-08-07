@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ordinario</string>
+    <string name="titul">TIENDA DE MOCHILAS</string>
+    <string name="titul1">INVENTARIO</string>
+    <string name="titul2">VENTAS</string>
+    <string name="titul3">TICKET</string>
+    <string name="titulo">Elige la accion a realizar </string>
+    <string name="btn1">Inventario</string>
+    <string name="btn2">ventas </string>
+    <string name="btn3">Salir</string>
+    <string name="btn4">Insertar Producto</string>
+    <string name="btn5">Eliminar Producto</string>
+    <string name="btn6">Actualizar Producto</string>
+    <string name="btn8">Finalizar</string>
+    <string name="btn9">Terminar</string>
+</resources>
