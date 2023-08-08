@@ -13,4 +13,7 @@
     <string name="btn6">Actualizar Producto</string>
     <string name="btn8">Finalizar</string>
     <string name="btn9">Terminar</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">precio</string>
+    <string name="idpro">Id Producto</string>
 </resources>

@@ -39,4 +39,12 @@
         android:background="#FF5722"
         android:text="@string/btn8"
         android:textSize="20dp" />
+    <ListView
+
+        android:id="@+id/productos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
 </RelativeLayout>

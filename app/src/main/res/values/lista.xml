@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="productos">
+        <item>  </item>
+        <item>Mochila Escolar clásica.</item>
+        <item>Mochila escolar con ruedas</item>
+        <item> Mochila escolar bandolera</item>
+        <item>Mochila bolso</item>
+
+        <item>$650</item>
+        <item>$800</item>
+        <item> $528</item>
+        <item>$320</item>
+
+        <item>23141</item>
+        <item>23142</item>
+        <item>23143</item>
+        <item>23144</item>
+
+    </string-array>
+</resources>
