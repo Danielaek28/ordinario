@@ -11,14 +11,11 @@ import androidx.annotation.NonNull;
 
 public class adaptador extends ArrayAdapter<String> {
     private final ventas context;
-    private final String [] nombres;
-    private final String [] precios;
-    private final String [] idpro;
-
+    private final String [] nombres,precios,idpro;
     private final Integer[] idimagen;
 
     public adaptador(ventas context, String[] nombres,String[] precios,String[] idpro, Integer[] idimagen) {
-        super(context,R.layout.itemm, nombres, precios, idpro);
+        super(context,R.layout.itemm);
         this.context=context;
         this.nombres=nombres;
         this.precios=precios;

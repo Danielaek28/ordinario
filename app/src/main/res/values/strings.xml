@@ -16,4 +16,6 @@
     <string name="nombre">Nombre</string>
     <string name="precio">precio</string>
     <string name="idpro">Id Producto</string>
+    <string name="des">Eliminar Producto</string>
+    <string name="edit1">ingresa el Id del producto</string>
 </resources>
