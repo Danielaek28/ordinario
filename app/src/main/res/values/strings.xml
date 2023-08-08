@@ -18,6 +18,7 @@
     <string name="idpro">Id Producto</string>
     <string name="des">Eliminar Producto</string>
     <string name="des1">Actualizar Producto</string>
+    <string name="des2">Ingresar Producto</string>
     <string name="edit1">ingresa el Id del producto</string>
     <string name="edit2">ingresa el nombre del producto</string>
     <string name="edit3">ingresa el precio del producto</string>
